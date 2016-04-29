@@ -1,0 +1,40 @@
+...19-
+
+diametrum BD in puncto Z secet. Per punctum Z eo modo,
+quo demonstrauimus [1, 31], lineam ΘΚ duabus lineis ΑΒ, DE
+parallelum ducimus». Iam quoniam linea BD in duas lineas inter
+se parallelas AD, ΘΗ ducta est, ex Ι, 29 angulus exterior ΘΖΒ
+angulo interiori ADZ aequalis est. Et quoniam triangulus
+ΑΗΒ aequicrurius est, ex Ι, 5 eritAABDa ADB. Quae autem
+eidem aequalia sunt, inter se sunt aequalia3 itaque ΘΖΒ == ΘΒΖ.
+Quare ex 1, 6 ΘΒ - ΘΖ Quoniam autem spatium ΘΚ parallelo-
+grammum est, erit ex Ι, 34 ΘΖ == ΒΚ, ΘΒ L- KZ. Sed iam de-
+monstrauimu5‚ esse ΘΒ == ΘΖ ; et quae eidem aequalia sunt, inter
+se sunt aequalia3 quare ZK ιε ΘΖ, quae lineae ΚΒ aequalis
+est. Itaque quattuor latera ΘΒ, ΘΖ, ΖΚ, ΚΒ inter se aequalia
+sunt, et spatium GK aequilaterum. Idem autem rectangulum est,
+quia ex Ι, 34 angulus Θ rectus angulo K recto aequalis et uter-
+que angulus Β, Ζ rectus est*). Ergo spatium ΘΚ quadratum est
+lineae ΘΒ. Iam quoniam latus AB lateri ΒΕ aequale est et
+linea ΘΒ lineae ΚΒ aequali5‚ aequali ab aequali· subtract0‚ quae
+relinquuntur, aequalia sunt3 quare ΑΘ ffl ΕΚ. Sed ex Ι, 34 ΑΘ ==
+ΘΖ, 1Ήῦἰ--τ ΖΗ; quare ΘΖ -=·= HZ. Uerum etiam linea ΘΖ lineae
+DH, linea ΖΗ lineae ΒΘ parallela est3 itaque spatium ΘΗ aequi-
+laterum et rectangulum est. Est autem quadrato lineae ΑΘ
+aequale; quare duo spatia ΘΗ, ΘΚ quadrata sunt duarum linea-
+rum ΑΘ, ΘΒ. Et quoniam spatium ΑΕ parallelogrammum est,
+et circum diametrum eius construeta 'sunt duo parallelogramma,
+ex Ι, 43 duo supplementa parallelogramma in utraque parte
+diametri BD posita inter se aequalia sunt; spatium igitur AZ
+spatio ΖΕ aequale est. Spatium autem ΘΘ duae lineae ΑΘ, ΘΖ
+comprehendunt, et ΘΖ 2- ΘΒ; spatium AZ igitur duabus lineis
+ΑΘ, ΘΒ comprehenditur. Duplum igitur spatium duabus lineis!
+ΑΘ. ΘΒ comprehensum aequale est summae duorum spatiorufnr‘j-„3
+
+²) Supra scriptum: ἰξοῦ.) Additamentum.
+
+¹⁸¹) Clarius Euclides p. 126, 13 sqq.: AB ÷ Θ--2Ε (Ι, 29), Δ B= R,
+ergo etiam AG= R, et ex Ι, 34 etiam ΔΚ et Z recti.
+
+3*
+

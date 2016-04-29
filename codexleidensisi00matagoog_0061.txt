@@ -1,0 +1,39 @@
+adiecta et quadratum adiectae simul sumpta duplo maiora sunt
+quadrato dimidiae lineae et quadrato dimidiae lineae simul cum
+adiecta simul sumptis.
+
+Exemplificatio. Linea AB in puncto Θ in duas partes
+aequales diuiditur, et in ea producta linea BD adiicitur. Βίοο,
+summam duorum quadratorum duarum linearum ΑΙ), DB duplo
+maiora esse summa duorum quadratorum duarum linearum
+ΑΘ, ΘΒ.
+
+DemonstratiO. In puncto Θ perpendicularem GE lineae
+ΑΘ aequalem erigimus, sicut in Ι, 12 [scr. Ι, 11] et Ι, 2 de-
+monstrauimus„ quo modo erigatur. Duabus lineis ΑΕ, ΕΒ duc-
+tis ex 1, 31 lineam EZ lineae GD parallelam et a puncto D
+lineam DZ lineae ΘΕ parallelam ducimus, Quoniam igitur duae
+lineae ΕΘ, DZ inter se parallelae sunt, et linea EZ in eas ducta
+est, ex Ι, 29 summa duorum angulorum GEZ, ΕΖΒ summae
+duorum rectorum aequalis erit; itaque duo anguli DZE'‚ ΖΕΒ
+duobus rectis minores sunt. Quare ex demonstratione Gemini
+in praemissis ad Ι, 29 et ex eo, quod ei a nobis additum est,*)
+duae lineae ΕΒ, ZD in directum productae concurrent. Pro-
+ductae igitur in puncto H concurrant.
+
+Lineam ΑΗ ducimus, Quoniam perpendicularis GE lineae
+AG aequalis est, ex Ι, 5 erit Δ ΘΑΕ -2 ΘΕΑ. Sed Δ ΑΘΕ
+rectus est; itaque ex Ι, 32 uterque angulus ΘΑΕ, ΘΕΑ dimi-
+dius est recti. Et ex eadem demonstratione et ratione etiam
+utrumque angulum GBE, ΘΕΒ dimidium recti esse demonstra-
+mus; itaque angulus ΑΕΒ rectus est. Sed ex Ι, 15 erit Δ
+DBH = ΕΒΑ; itaque angulus DBH dimidius est recti. Et ex
+Ι, 29 angulus BDH rectus est, quoniam angulo EZD aequalis
+est; ex Ι, 32 igitur relinquitur angulus DHB dimidius recti.
+Quare BD == ΒΗ, et ΖΕ -- ΖΗ, quoniam etiam angulus ΖΕΗ
+dimidius recti est.
+
+His demonstratis ad superiora reuertimur. Quoniam ΘΕ -εΑΘ,
+
+¹⁵) 1 p. 127 sqq.
+

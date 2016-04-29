@@ -1,0 +1,44 @@
+-31-,
+
+· adiecta et adiecta comprehensum et quadratum dimidiae lineae
+
+ab initio datae aequalia sunt quadrato in dimidia una cum
+adiecta descripto
+
+Exemplificatio. Lineam rectam lineam AB supponimus
+eamque in puncto Θ in duas partes aequales diuidimus et ei
+lineam BD adiicimuS. Demonstrare uolumuS, spatium lineis AD,
+DB comprehensum cum quadrato AG (Scr. BG) aequale esse
+quadrato lineae DG‘.
+
+Demonstratio. ln linea GD ex l, 45 spatio quadrato
+rectangulo constructo diametrum DE ducimus et lineas figurae
+explemuS, ut in propositionibus praecedentibus demonstrauimus,
+
+Ex I, 43 igitur spatium HZ spatio GH aequale erit, quoni-
+am complementa sunt. Ex I, 36 autem spatium GH spatio
+ΑΚ aequale est, quia in duabus basibus inter se aequalibus
+HK, ΚΜ et inter duas
+lineas inter se paralle- ό D *e Β e.» Γ Αἱ
+las HM, AB posita sunt.
+Itaque ΗΖ = ΑΚ. Spa-
+tio igitur KD communi J L
+sumpto totum spatium
+MD gnomoni ΝΞΟ ae-
+quale. Sed spatium
+MD lineis AD, DB Z
+comprehenditur, quo· 3 ‘b θ Ἐ
+niam DB ε·- DL. Gno-
+mon igitur aequalis'est spati0, quod lineae AD, DB comprehen-
+dunt. Quadrato HE i. e. quadrato lineae BG adiecto spatium igi-
+tur, quod comprehendunt lineae AD, DB, cum quadrato [lineae]
+GB gnomoni ΝΞΟ et quadrato ΗΕ aequale. Sed gnomon ΝΞΟ
+et quadratum ΗΕ aequalia sunt quadrato DE', 'quod quadratum
+est lineae GD. Ergo spatium, quod comprehendunt lineae AD,
+DB, cum quadrato [lineae] ΘΒ aequale est quadrato lineae
+
+GD. Q. n. e. d.
+Heron hanc quoque propositionem per lineas demonstrauit.
+
+ 
+

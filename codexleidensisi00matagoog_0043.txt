@@ -1,0 +1,38 @@
+drato GK aequale est duplo spatio duabus lineis ΑΒ, ΒΘ com·-
+prehenso cum quadrato lineae ΑΘ. Uerum quadratum ΑΕ est
+quadratum lineae AB, quadratum ΘΚ quadratum lineae ΘΒ.
+Ergo quadratum AE' eum quadrato ΘΚ aequale est duplo spatio
+duabus lineis AB, ΒΘ comprehenso et quadrato lineae ΑΘ.
+Q. n. e. d.
+
+· Si hanc propositionem nulla figura adbibita uia analytica
+demonstrare uolumuS, quaerimuS, quo modo summa duorum
+quadratorum duarum linearum AB, ΒΘ resoluatur in duplum
+spatium duabus lineis AB, ΒΘ comprehensum cum quadrato
+lineae ΑΘ, ita ut aequalia sint.
+
+DieimuS‚ quadratum [lineae] AB ad 11, 4 resolui3 quadratum
+enim lineae AB aequale est summae duarum quadratorum dua·
+rum linearum AG, ΘΒ et duplo spatio duabus lineis ΑΘ, ΘΒ
+comprehenso. Summa igitur duorum quadratorum duarum line-
+arum AB, ΒΘ resoluta aequalis est duplo spatio duabus lineis
+ΑΘ, ΘΒ comprehenso eum duplo quadrato lineae ΘΒ et quadrato
+lineae ΑΘ. Sed ex ΙΙ, 3 duplum spatium duabus lineis ΑΘ, ΘΒ
+comprehensum cum duplo quadrato lineae ΘΒ aequale est duplo
+spatio duabus lineis AB, ΒΘ comprehenso, Restat quadratum
+lineae ΑΘ. Et duplum spatium duabus lineis ΑΒ, ΒΘ compre-
+hensum cum quadrato lineae ΑΘ aequale est duplo spatio dua-
+bus lineis ΑΘ, ΘΒ comprehenso oum duplo quadrato lineae ΘΒ
+et cum quadrato lineae AG. Ergo resolutione ad 11, 3 facta
+summa duorum quadratorum duarum linearum AB, ΒΘ aequalis
+est duplo spatio 'duabus lineis AB, ΒΘ comprehenso eum qua-
+drato lineae ΑΘ. Q. n. e. d.¹·*)
+
+Ratione synthetioa ita componere incipimuS, ut dieamus:
+Quoniam summa duorum quadratorum AB, ΒΘ ad demonstra-
+tionem propositionis tertiae resoluta est et aequalis est duplo
+spati0‚ quod duabus lineis ΑΒ, ΒΘ comprehenditur, eum qua·
+drato lineae ΑΘ, ex 11, 3 duplum spatium duabus lineis AB, ΒΘ
+
+¹·*) Miras has ambages dedimus, quales in codice sunt.
+

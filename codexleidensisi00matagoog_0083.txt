@@ -1,0 +1,40 @@
+-77-
+
+DemonstratiO. Ex Ι, 12 [S. 11] in puncto A lineae AG per-
+pendicularem AD lateri AB aequalem erigimus et DG ducimus,
+Adhibitis igitur propositionibus Ι, 46 et 1, 45 [scr. 25], sicut factum
+est in propositione ante hanc propositionem adiecta, scilicet in an-
+gulo obtuso, demonstrabimus, angulum BAG acutum esse. Q. n. e. d.
+
+propositio XIV libri secundi.
+
+Nobis demonstrandum est, quo modo spatium quadratum
+triangulo dato aequale construamus,
+
+Datus triangulus sit triangulus ABG. Demonstrandum igitur,
+quo modo spatium quadratum triangulo ABG aequale constru-
+amus,
+
+Ex Ι, 42 spatium parallelogrammum rectangulum triangulo
+ABG aequale construimus; sit DH. Si igitur spatium ΒΗ qua-
+dratum est, iam construximus, quod nobis erat construendum.
+Sin latera inaequalia habet, latus DE latere ΕΗ maius esse sup-
+ponimus et DE in directum producimuS, donec linea a nobis
+ducta aequalis fiat lineae ΕΗ ; sit ΕΘ. lam [linea] ΒΘ in puncto
+K ex Ι, 19 in duas partes aequales diuisa centro K et radio ΚΚ
+[SKD] semicirculum DLo describimus et ex Ι, 12 a puncto Ε
+perpendicularem ΕΒ erigimus lineamque ΚΕ ducimus Quoniam
+igitur linea 1)Θ in puncto Κ in duas partes aequales diuisa est et in
+puncto Ε in duas· partes inaequales, ex Il, 5 spatium duabus lineis
+DE, ΕΘ comprehensum cum quadrato lineae ΚΕ aequale erit
+quadrato lineae ΚΘ. Sed ΚΘΕ KL, quoniam utraque a centro ad
+ambitum circuli d'ucta est3 itaque spatium duabus lineis DE,
+ΕΘ comprehensum cum quadrato lineae ΚΕ aequale est qua-
+drato lineae KL. Sed ex 1, 46 quadratum lineae ΚΕ aequale
+est summae duorum quadratorum duarum linearum ΚΕ, EL,
+quoniam. angulus KEL rectus est; itaque spatium duabus lineis
+DE, ΕΘ comprehensum cum quadrato lineae ΚΕ summae duo-
+rum quadratorum duarum linearum*) ΚΕ, EL aequale est. Sub-
+
+*) Supra p. ’11 sq.
+

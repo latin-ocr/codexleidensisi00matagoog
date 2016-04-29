@@ -1,0 +1,42 @@
+...75-
+
+arum AB, Β[Θ] minus esse duplo
+spatio duabus lineis ΘΒ, BD Αἱ
+comprehenso.
+
+DemonstratiO. Quoniam
+linea BG in puncto D in duas
+partes diuisa est, ex ΙΙ, 7 qua-
+dratum lineae ΒΘ eum quadrato
+lineae BD aequale est duplo spa· ᾳ Γ 0 D υ B
+tio duabus lineis ΘΒ, BD com·
+prehenso eum quadrato partis ΘΒ. lam quadrato perpendicula-
+ris AD eommuni sumpto summa trium quadratorum linearum
+ΘΒ, BD, AD aequalis erit duplo spatio duabus lineis ΘΒ, BD
+comprehenso eum summa duorum quadratorum duarum linearum
+ΘΙ), DA. Sed ex Ι, 46 summa duorum quadratorum duorum
+laterum BD, DA aequalis est quadrato lineae AB, quoniam
+uterque angulus ad D positus rectus est3 et eadem ratione de-
+monstratur, summam duorum quadratorum duorum laterum AD,
+ΒΘ aequalem esse quadrato lateris ΑΘ; itaque summa duorum
+quadratorum duorum laterum AB, ΒΘ quadrato lateris ΑΘ cum
+duplo spatio duabus lineis ΒΘ, BD comprehenso aequalis est.
+Ergo demonstratum est, quadratum lateris ΑΘ summa duorum
+quadratorum duorum laterum AB, ΒΘ minus esse duplo spatio
+duabus lineis ΘΒ, BD comprehenso Q. n. e. d.
+
+Dixit Hero: Conuersio huius propositionis haec est: in
+quouis triangu10‚ in quo quadratum unius laterum eius minus
+est duobus quadratis duorum laterum
+reliquorum, angulus duobus illis lateribus ο D
+
+comprehensus acutus erit.*) VAS
+Exemplificatio. In triangulo ΑΒΘ
+quadratum lateris ΒΘ minus est summa Α
+
+duorum quadratorum duorum laterum AB, ᾳ, Γ '-.’ B
+ΑΘ, Diem angulum ΒΑΘ acutum esse.
+
+²⁸¹) cfr. Scholl. in Elem. 11 nr. 84 (V p. 253, 21 sq.).
+10*
+

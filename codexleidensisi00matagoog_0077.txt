@@ -1,0 +1,40 @@
+—71-
+
+DemonstratiO. Quoniam linea ΘΙ) in puncto Β in duas
+partes diuisa est, ex ll, 4 quadratum iineae ΘΙ) aequale est ·
+summae duorum quadratorum duarum partium DB, ΒΘ oum duplo
+spatio duabus lineis ΠΒ, ΒΘ comprehenso. Quadrato igitur perpen-
+dicularis AD communi sumpto summa duorum quadratorum du-
+orum laterum GD, DA summae quadratorum linearum ΘΒ,
+BD, DA oum duplo spatio duabus lineis ΘΒ, BD compre-
+henso aequalis erit. Sed ex 1, 46 summa duorum quadratorum
+duorum laterum ΘΙ), DA aequalis est quadrato lateris ΑΘ, quo-
+niam A D rectus est3 et eadem ratione summa duorum qua-
+dratorum duorum laterum BD, DA quadrato lateris AB aequalis
+est3 itaque quadratum lateris ΑΘ aequale est summae duorum
+quadratorum duorum laterum AB, ΒΘ cum duplo spa'tio latere
+ΒΘ et linea BD comprehenso, Ergo iam demonstratum est, qua-
+dratum lateris ΑΘ summa duorum quadratorum duorum laterum
+AB, ΒΘ maius esse duplo spatio latere ΘΒ et linea BD eom-
+prehenso Q. n. e. d. ’
+
+Additamentum. Hero dixit: Si in triangulo quadratum
+cuiuslibet lateris maius est summa duorum quadratorum duorum
+laterum reliquorum, angulus his duobus lateribus comprehensus
+obtusus erit.
+
+In triangulo ΑΒΘ quadratum lateris ΒΘ maius sit summa
+duorum quadratorum duorum laterum BA, AG. Dico, angulum
+ΒΑΘ obtusum esse.
+
+Demonstratio. A puncto A lineae ΑΘ ex demonstratione
+propositionis ad Ι, '12 [sor. Ι, 11] adiectae perpendicularem AD
+ducimus lateri AB aequalem. Lineam ΘΙ) ducimuS. Quoniam
+quadratum AB quadrato AD aequale est, quadrato ΑΘ communi
+sumpto summa duorum quadratorum duarum linearum AB, ΑΘ
+summae duorum quadratorum DA, ΑΘ aequalis est. Supposui-
+mus autem, quadratum lateris ΒΘ maius esse summa duorum
+quadratorum duorum laterum AB, ΑΘ; ex l, 46 autem summa
+duorum quadratorum DA, ΑΘ aequalis est quadrato lateris DG3
+itaque quadratum lateris ΒΘ maius est quadrato lateris GD;
+

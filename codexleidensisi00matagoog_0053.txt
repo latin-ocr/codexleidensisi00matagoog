@@ -1,0 +1,40 @@
+-47—
+
+propositio nona libri secundi.
+
+Si linea recta in duas partes aequales et in duas quaslibet
+partes inaequales diuiditur, summa 1) duorum quadratorum dua-
+rum partium eius inaequalium aequalis est duplae summae duo-
+rum quadratorum dimidiae lineae et lineae, qua dimidia partem
+minorem superat.
+
+Exemplificatio. Lineam rectam supponimus lineam ΑΒ,
+quam in puncto Θ in duas partes inter se aequaleS‚ in puncto
+D autem in duas partes inaequales diuidimus Nobis demon-
+strandum est, summam duorum quadratorum duarum partium
+AD, DB aequalem esse duplo quadrato lineae ΘΒ cum duplo
+quadrato lineae ΘΙ).
+
+Demonstratio. In puncto Θ erigimus perpendicularem
+ΘΕ lineae ΑΘ aequalem, sicut in Ι, 12 (Scr. 11) ‘demonstra-
+uimuS, quo modo erigatur, in Ι, 2, quo modo aequalis flat.
+Duabus lineis ΑΕ, ΕΒ ductis lineam DZ ex Ῑ, 31 lineae ΘΕ
+parallelam et lineam ZH lineae [AB] parallelam ducimuS‚ et
+linea AZ ducitur. Quoniam igitur ΘΕ perpendicularis erecta
+est lineae AG aequalis, ex [1‚ 5]2) erit A ΘΑΕ == A ΘΕΑ. Et
+A ΑΘΕ rectus est3 erit igitur ex Ι, 32 uterque angulus ΘΑΕ,
+ΘΕΑ dimidius recti. Rursus quoniam perpendicularis ΘΕ
+ducta est lineae ΘΒ aequaliS‚ ex eadem demonstratione uter·
+que angulus GBE, GEB dimidius recti erit. Ergo A ΑΕΒ
+rectus est. Et quoniam linea ZH lineae AB parallela ducta
+est, et linea ΕΗΘ in eas incidit, ex [1, 29]²) angulus exterior
+
+ι) ln margine est: &bam-2] ως ΔΑΒ ᾀξ ..ΓΛ-ὼ ο ‘' υἱὲ
+ma s Β· aas> »ψ ·· «μα ιι» . aa ε „msc ν
+ξιιμὼὲἶώὶῆρωὶώεὲὲὶαωμό,
+Laterculus summae utriusque partium inaequalium in se multi-
+plicatarum aequalis est laterculo [duplae] summae dimidiae lineae in
+
+se multiplicatae et parm, qua dimidia partem minorem superat, in
+se multiplicatae.
+

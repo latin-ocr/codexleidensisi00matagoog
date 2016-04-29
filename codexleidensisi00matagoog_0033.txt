@@ -1,0 +1,39 @@
+-27-
+
+quadratum ΕΗ quadrato lineae GD aequale, totum autem qua·
+dratum GZ gnomoni ΝΞΟ cum quadrato ΕΗ aequale est. Sed
+quadratum ΘΖ quadratum est lineae ΘΒ. Ergo spatium duabus
+partibus AD, DB comprehensum una cum quadrato lineae ΘΙ)
+inter duas sectiones positae quadrato lineae ΘΒ aequale est.
+Q. n. e. d.
+
+Exemplificatio per numer03.*) Supponimus AB esse
+10, utramque partem ΑΘ, ΘΒ 5, partem AD 7, ita ut relinqua-
+tur DB -ε 3, et ΘΒ 2 fiat. Manil'estum est, partem ΘΒ in se
+multiplicatam esse 25. Quod aequale est summae, quae efficitur
+parte AD in DB multiplicata, hoc est 21, et lineae ΘΙ) in se
+multiplicatae, hoc est 4, ,quorum summa 25. Q. n. e. d.
+
+lam si ratione Hei-onis uia analytica hanc propositio-
+nem demonstrare uoluerimuS, quoniam quaerimuS, sitne spatium
+duabus partibus AD, DB comprehensum una cum quadrato
+lineae ΘΙ) quadrato lineae ΘΒ aequale, duas lineas sumamuS,
+quarum altera AD in punctoG diuisa est, altera DB non diuisa.
+Ex ll, 1 spatium duabus lineis AD, DB comprehensum aequale
+est summae duorum spatiorum linea BD et duabus partibus
+ΑΘ, ΘΙ) comprehensorum. Quoniam AG m ΘΒ, summa duo-
+rum spatiorum, quae duabus lineis ΘΒ, BD et duabus lineis
+ΘΙ), Ι)Β comprehenduntur, spatio duabus lineis AD, DB com-
+prehenso aequalis erit. Restat quadratum ΘΙ), quo communi
+sumpto summa duorum spatiorum lineis ΘΒ, BD et lineis GD,
+DB comprehensorum una cum quadrato ΘΙ) spatio duabus
+lineis AD, DB comprehenso una cum quadrato ΘΙ) aequalis
+est. Uerum spatium duabus lineis ΘΙ), DB comprehensum una
+cum quadrato ΘΒ ex ΙΙ, 3 aequale est spatio duabus lineis
+ΒΘ, ΘΙ) comprehenso; quare summa duorum spatiorum, quo-
+rum alterum duabus lineis ΒΘ, ΘΙ), alterurn duabus lineis ΘΒ,
+BD comprehenditur, aequalis est spatio duabus lineis AD,
+
+²⁸¹) Cfr. Schol. 11 nr. 35.
+¹) Supra scriptum: goti>
+

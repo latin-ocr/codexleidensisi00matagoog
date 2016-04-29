@@ -1,0 +1,40 @@
+„49—
+
+EHZ angulo interiori EGB aequalis erit, et cum angulus EGB
+rectus sit, rectus erit angulus ΕΗΖ. Demonstrauimus autem,
+angulum ΗΕΖ dimidium recti esse3 quare ex 1, 29 [scr. 32]
+relinquitur A ΕΖΗ dimidius recti; itaque A ΗΕΖ -= A ΕΖΗ, et ex
+1, 32 [scr. 6] latus ΕΗ aequale est lateri HZ. Rursus quoniam linea
+AB in duas lineas EG, ZD inter se parallelas incidit, ex demon·
+stratione praecedenti angulus exterior BDZ angulo interiori BGE'
+aequalis erit. Sed A BGE rectus
+est; itaque etiam A BDZ rectus,
+Iam autem demonstrauimuS, an-
+gulum GBE dimidium recti esse;
+itaque ex 1, 32 relinquitur A
+DZB dimidius recti, et ex Ι, 6
+latus DB aequale est lateri DZ. ψ Β 0 D ³.- Γ Αἱ
+Iam quoniam perpendicularis GE
+
+lineae AG aequalis ducta est, summa duorum quadratorum
+duarum linearum GE, AG aequalis erit duplo quadrato lineae AG.
+Sed [ex 1, 46] ¹) summa duorum quadratorum GE, AG aequalis
+est quadrato lineae AE, quoniam A AGE rectus est. Quadra-
+tum igitur lineae ΑΕ duplo quadrato lineae AG aequale erit.
+Rursus autem demonstrauimuS‚ latus ΗΕ aequale esse lateri HZ.
+Itaque summa duorum quadratorum duorum laterum ΗΕ, ΗΖ
+aequalis erit duplo quadrato lateris HZ. Et quoniam A ΕΗΖ
+rectus erit, ex 1, 46 summa duorum quadratorum duorum late-
+rum ΗΕ, ΗΖ aequalis erit quadrato lineae ΕΖ. Itaque quadra—
+tum lineae ΕΖ duplo quadrato lineae ZH aequale erit. Quoniam
+autem latus HZ ex 1, 34 aequale est lateri GD, quia spatium
+HD parallelogrammum est, quadratum lineae ΕΖ duplo quadrato
+lineae ΘΙ) aequale erit. Demonstrauimus igitur, quadratum lineae
+EZ duplo quadrato lineae GD aequale esse, itemque quadratum
+lineae ΑΕ aequale esse duplo quadrato lineae AG3 summa igitur
+duorum quadratorum duarum linearum ΑΕ, ΕΖ aequalis est sum-
+
+  
+
+ι) Numeri in codice omissi sunt.
+

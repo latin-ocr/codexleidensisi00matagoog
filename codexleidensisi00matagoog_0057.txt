@@ -1,0 +1,38 @@
+-51-
+
+mae duplae duorum quadratorum duarum linearum AG, GD. Sed
+ex Ι, 46 summa duoru'm quadratorum duarum linearum ΑΕ, ΕΖ
+aequalis est quadrato lineae AZ, quia ᾼΑΕΖ rectus est; quare
+quadratum lineae AZ aequale erit summae duplae duorum qua-
+dratorum duarum linearum AG', GD. Sed ex Ι, 46 summa duo-
+rum quadratorum duarum linearum AD, DZ aequalis est qua-
+drato lineae ΑΖ; itaque summa duorum quadratorum duarum line·
+arum AD, DZ aequalis est duplo duorum quadratorum duarum
+linearum AG, ΘΙ). Iam autem demonstrauimuS‚ [lineam] DZ
+aequalem esse lineae DB. Ergo summa duorum quadratorum
+duarum linearum AD, ΗΒ aequalis est duplo duorum quadra-
+torum duarum linearum AG, BD [scr. GD} Q. n. e. d.
+
+Si hanc propositionem ex ratione Heronis uia analytica
+demonstrare uoluerimuS, iam [ex 11, 4]¹) seimus, quadratum
+lineae AD aequale esse duplo spatio duabus lineis AG, GD com-
+prehenso eum duobus quadratis duarum linearum AG, GD.
+Summa igitur duorum quadratorum duarum linearum AI), DB
+ita resoluta est, ut fiant aequalia duplo spatio duabus lineis AG,
+GD comprehenso eum duobus quadratis duarum linearum AG,
+ΘΙ) et quadrato BD. Iam nobis demonstrandum est, duplum duo-
+rum quadratorum duarum linearum AG, ΘΙ) aequale esse duplo
+spatio duabus lineis AG, GD comprehenso et summae duorum
+quadratorum duarum linearum AG, ΘΙ) et quadrato BD. Sub·
+tractis duobus quadratis AG, ΘΙ) communibus relinquitur du-
+plum spatium duabus lineis AG, ΘΙ) comprehensum cum quadrato
+lineae BD summae duorum quadratorum duarum linearum AG,
+ΟΒ aequale. Sed AG' == GB. Summa igitur duorum quadrato-
+rum duarum linearum BG, GD duplo spatio duabus lineis BG,
+ΘΙ) comprehenso eum quadrato lineae BD aequalis est. Sed
+ex 11, 7 summa duorum quadratorum duarum linearum BG, ΟΒ
+aequalis est duplo spatio duabus lineis BG, GD comprehenso
+eum quadrato lineae BD. Demonstratio igitur resoluta est ad
+
+¹) Numeri in codice omissi sunt.
+

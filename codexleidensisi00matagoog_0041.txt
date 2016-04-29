@@ -1,0 +1,41 @@
+lineae totius et quadratum alterius partis simul sumpta aequalia
+sunt duplo spatio tota linea et parte nominata comprehenso et
+quadrato reliquae partis simul sumptis,
+
+ExemplifioatiO. Linea AB punctoG utcumque in duas
+partes diuidatur. Dico, summam duorum quadratorum duarum
+
+linearum ΑΒ, ΒΘ duplo spatio lineis ΑΒ, ΒΘ comprehenso cum ·
+
+quadrato partis ΑΘ aequalem esse.
+
+Demonstratio. In linea AB ex Ι, 45 quadratum rectangu-
+lum 'oonstmimu3‚ quod sit quadratum ABDE'. Diametrum BD du-
+cimus et ex 1, 31 a puncto Θ lineam duobus lateribus quadrati, i. e.
+AD, ΒΕ, parandam, quae sit linea GZH. Per punctum Z ex Ι, 31 ·
+lineam duobus reliquis lateribus quadrati, i. e AB, DE, parallelam
+ducimuS‚ quae sit linea ΚΖΘ. Iam ex delineatione figurarum prae-
+cedentium manifestum est, spatium BZ quadratum partis BG,
+spatium ZD quadratum lineae ΑΘ esse. Et ex Ι, 43 comple-
+mentum AZ complemento ΖΕ aequale est; itaque quadrato BZ
+communi sumpto [spatium] ΑΚ spatio ΘΕ aequale fit; summa
+igitur duorum spatiorum ΑΚ, ΘΕ spatio ΑΚ duplo maior est. Sed
+iam demonstratum est, spatium ΑΚ duabus lineis ΑΒ, ΒΘ compre-
+hendi3 itaque summa duorum spatiorum ΑΚ, ΘΕ duplo maior
+est spatio duabus lineis-AB, ΒΘ comprehenso. Summa autem duo-
+rum spatiorum AK, ΘΕ gnomoni LMN cum quadrato ΘΚ aequa·
+lis est; itaque quadrato ΘΚ subtracto restat LMN. Et gnomon
+LMN cum quadrato ΘΚ aequalia sunt duplo spatio duabus lineis
+AB, ΒΘ comprehenso, Sed iam demonstratum est, quadratum
+ZD esse quadratum partis ΑΘ; itaque gnomon LMN cum duo-
+bus quadratis GK, ZD aequalis
+est duplo spatio duabus lineis
+AB, ΒΘ comprehenso cum qua-
+drato partis ΑΘ. Gnomon autem
+LMN cum summa duorum qua-
+dratorum ΘΚ, ΖΙ) aequalis est
+quadrato AE' oum quadrato ΘΚ ;
+quadratum igitur AE cum qua-
+
+ 
+

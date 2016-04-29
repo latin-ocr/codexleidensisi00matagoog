@@ -1,0 +1,41 @@
+partes inter se aequa·
+les et in puncto D in
+duas partes inaequales
+diuidatur. Dico, spati-
+um duabus partibusAD‚
+DB comprehensum una
+cum quadrato ΘΙ) ae-
+quale esse quadrato
+ΘΒ.
+
+Demonstratio. ln linea ΘΒ ex 1, 45 spatium quadratum
+rectangulum construimuS, quod sit quadratum GZ. Diametro
+ΒΕ ducta a puncto D ex 1, 31 lineam duobus lateribus ΘΕ, ΒΖ
+parallelam ducimus et ex 1, 31 per punctum H lineam KHLM
+lineae BA parallelam ducimus et a puncto A ex Ι, 31 lineam
+ducimus lineis GL, ΒΗ, ΒΚ parallelam‚ quae in lineam KLM
+incidit; supponimus, illam in eam in puncto M incidisse. Iam
+eodem modo, quo in ΙΙ, 4, et ex iisdem propositionibus, quibus
+in illa propositione usi sumne, demonstrabimus», duo spatia
+ΒΚ, Le duo quadrata esse. Et circum diametrum ΒΕ posita
+sunt; quare ex 1, 43 supplementum ΘΗ supplemento ΗΖ aequale
+est. ltaque spatio DK communi sumpto totum spatium ΘΚ toti
+spatio DZ aequale erit. Et ΘΚ = ΘΜ, quia in duabus basibus
+inter se aequalibus KL, ΕΜ et inter duas lineas inter se paral-
+lelas KM, AB posita sunt, quod in 1, 36 demonstratum est.
+Spatium ΘΜ igitur spatio DZ aequale est, quia, quae eidem
+aequalia sunt, inter se aequalia sunt. Quare spatio DL com-
+muni sumpto totum spatium MD gnomoni ΝΞΟ *) aequale erit.
+Sed spatium MD duae lineae AD, DH comprehendunt, et ΒΗ
+-- DB, quoniam spatium DK quadratum est; itaque duae lineae
+AD, DB spatium MD comprehendunt. Gnomon ΝΞΟ igitur
+spatio duabus lineis AD, DB comprehenso aequalis est. Et
+
+ 
+
+‘)1taque in gnomone eaedem litterae sunt, quas coniectura restituit
+Gregorius, cum in codd. Graecis sit ΜΝΞ (Eucl. I p. 131 not).
+Sed A1·Tusi ΜΝΞ habet.
+
+4
+

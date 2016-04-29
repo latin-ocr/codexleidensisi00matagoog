@@ -1,0 +1,43 @@
+Hero dixit: Fieri non potest, ut hanc propositionem
+sine figura demonstremus*) Et hoc eo fit, quod in [problematis]
+plane necessarium est scire, quibus operationibus perficiantur;
+
+quod in theorematis superfluum est.¹) Iam in propositioni· 2
+
+buS‚ quae. praecedunt, demonstrauimuS, in iis non operatione,
+sed sola demonstratione opus esse, easque hucusque figuris
+non descriptis demonstrauimus, In hac autem propositione
+quoniam operatione opus est, fieri non potest, ut figura
+non descripta demonstretur. Quae cum ita sint, haud diffi-
+culter linea descripta2) demonstrationem certam et adcuratam
+ponimus.
+
+Dicimus igitur, nos supposuisse datam lineam esse lineam
+AB, et nobis demonstrandum esse, quo modo lineam AB ita
+diuidamuS, ut spatium tota linea et alterutra parte comprehen-
+sum aequale sit quadrato partis reliquae. A puncto A ex demon-
+stratione propositioni Ι, 11 addita**) lineam AG dimidiae lineae
+AB aequalem perpendicularem erigimUS‚ et ducta linea GR ex
+Ι, 3 GD abscindimus lineae ΘΑ aequalem. Et quoniam quadra-
+tum lineae GR aequale est summae duorum quadratorum duorum
+laterum AG, AB, et ΘΙ) -= GA, latus AB linea BD maius est;
+nam ex ΙΙ, 4 quadratum GR aequale est summae duorum qua-
+
+⁴ dratorum GD, DB cum duplo spatio duabus lineis ΘΒ, DB
+
+comprehenso; duobus igitur quadratis duarum-linearum AG, ΘΙ)
+subtractis relinquitur quadratum lineae AB aequale quadrato
+lineae DB et duplo spatio duabus lineis GD, DB compre-
+henso; quare AB >’ BD. Iam a linea AB ex Ι, 3 lineam ΒΕ
+
+*) Schol. Eucl. 11 nr. 70 p. 248, 103 71 p. 248, 12.
+
+¹) Gherardus Cremonensis (ed. Curtze p. 106 l. 14—15> aperte legit:
+M pro μ, eaque de causa uertit: »differentia«.
+
+²) Uerbum codicis omni sensu carena, quod est 2222]ss e uerbis
+
+Gherardi Cremonensis emendans uerbum, quod est lagi, in textum
+recepi.
+¹⁸¹¹⁸¹) I p. ¹73 sq.
+

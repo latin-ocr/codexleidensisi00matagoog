@@ -1,0 +1,45 @@
+ 
+
+...6,7...
+
+ita abscindimuS, ut fiat lineae BD aequalia Dico, nos lineam
+AB in puncto Ε ita diuisisse, ut spatium duabus lineis BA, ΑΕ
+comprehensum quadrato lineae ΒΕ aequale sit.
+
+DemonstratiO. Quadratum lineae ΘΒ ex ΙΙ, 4 aequale
+est summae duorum quadratorum duarum partium GD, DB eum
+duplo spatio duabus lineis GD, ΗΒ comprehenso, Ex Ι, 46
+autem quadratum ,lineae ΟΒ aequale est summae duorum qua-
+dratorum duarum linearum GA, AB, quia AGAB rectus θεῖς
+summa igitur duorum quadratorum duarum partium ΘΙ), DB
+oum duplo spatio duabus lineis GD, DB comprehenso aequalis
+est summae duorum quadratorum duarum linearum AG, AB.
+Uerum (Η) [lineae] AG aequalem et ΒΕ [lineae] BD aequalem
+abscidimus; itaque summa duorum quadratorum [duarum linearum]
+AG, ΒΕ cum duplo spatio duabus lineis AG, ΒΕ comprehenso ae-
+qualis est summae duorum quadratorum duarum linearum GA, AB.
+Quadrato igitur lineae GA, quod commune est, subtracto relin-
+quitur duplum spatium duabus lineis ΘΑ, ΕΒ comprehensum
+oum quadrato lineae ΕΒ quadrato lineae AB aequale. Et quo·
+niam AB duplo maior est linea ΟΛ, ex ΙΙ, 1 duplum spatium
+duabus lineis AG, ΕΒ comprehensum aequale est spatio duabus
+lineis AB, ΒΕ comprehenso; spatium igitur duabus lineis AB,
+ΒΕ comprehensum oum quadrato lineae ΒΕ aequale est qua-
+drato lineae AB. Sed ex ΙΙ, 2 summa duorum spatiorum, quo-
+rum alterum duabus lineis BA, ΑΕ, alte-
+rum duabus lineis AB, ΒΕ comprehenditur,
+aequalis est quadrato lineae ΑΒ; itaque
+spatium duabus lineis AB, ΒΕ compre-
+hensum oum quadrato lineae BE aequale
+est duobus spatiiS, quorum alterum duabus
+lineis AB, ΒΕ, alterum duabus lineis BA,
+ΑΕ comprehenditur. Quare communi spatio
+duabus lineis AB, ΒΕ comprehenso ab
+utraque summa subtracto relinquitur spa-
+
+ΨΒ
+
+01> ‘E
+
+ΦΓ Α,
+

@@ -1,0 +1,51 @@
+-11-
+
+Propositlo ΙΙ lun-1 secundi.
+
+Si recta linea in quotlibet ¹) partes diuiditur, quadratum ¹)
+lineae totius aequale est summae spatiorum, quae tota linea et
+singulis partibus comprehenduntur.
+
+ExemplificatiO. Linea AB in puncto G in duas partes
+diuisa sit. Dim, quadratum lineae AB aequale esse summae
+spatiorum, quae linea AB et utraque linea AG, GR com-
+prehenduntur.
+
+Demonstratio. In linea AB ex Ι, 45 quadratum con-
+struimus», quod sit quadratum BD, et a puncto G lineam lineis AD,
+ΒΕ parallelam ducimuS, quae quo modo ducenda sit, in Ι, 31
+demonstrauimus», sitque linea GZ3 itaque duo spatia ΑΖ, GE
+parallelogramma eunt. Et spatium ΒΘ Ψ Β
+lineis DA, AG, spatium ZB [lineis] ΖΘ,
+
+GR comprehenditur. Est autem ΘΖ --
+ΑΙ), AD -== AB. Summa igitur duorum
+spatiorum ΒΘ, ΖΒ linea AB et utraque 2.
+linea AG, GR comprehenditur, et summa
+
+duorum spatiorum ΒΘ, ΖΒ aequalis est
+
+quadrato DB in linea AB descripto. a E Z) ο D
+
+Ergo iam demonstratum est, quadra-
+tum rectae AB aequale esse summae duorum spatiorum, quae
+linea AB et utraque linea AG, ΘΒ comprehenduntur. Q. n. e. d.
+
+Exemplificatio per numerOS. SupponimuS, lineam AB
+esse 10, et in puncto G ita in duas partes diuisam esse, ut AG 3,
+
+φτ Al
+
+¹) Apud Euclidem recta in duas quaslibet partes diuiditur. Cfr. Al-Tusi
+(p. 50-51): »Quadratum lineae rectae in uno puncto aut in pluribus
+punctis diuisae aequale est summae spatiorum eius et utriusque partis
+aut partium eius.· Demonstratione de linea in duas partes diuisa
+perfecta Al-Tusi addit: »Eodem modo res demonstratur, si partes
+plures quarn duo sunt.‹
+
+ς) In margine: ΨΑ) όῶο ἔμοι-..ὁὶ 3⁴⁴? ὅ ffll ΨΑ.) ΦΒ
+ms ὅ ,14ὲῖ Laterculus lineae in omnes partes suas multiplicatae
+aequalis est laterculo lineae in se multiplicatae.
+
+2*
+

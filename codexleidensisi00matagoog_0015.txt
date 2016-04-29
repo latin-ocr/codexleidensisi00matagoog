@@ -1,0 +1,44 @@
+-9-
+
+summa eorum spatio GZ aequalis est, quod spatium ex ec,
+quod iam demonstrauimuS, rectis A, BG comprehenditur.
+
+Ergo iam effecimuS, spatium rectis A, BG comprehen-
+sum summae spatiorum, quae recta A et singulis partibus BD,
+DE, EG comprehenduntur, aequale esse. Q. n. e. d.
+
+Additamentum. Exemplificatio huius propositionis per
+numeros,
+
+Sit linea A 6, linea BG 10, sitque BD 2, ΒΕ 3, GE 5.
+Manifestum est, esse 6 >< 10 == 60, quae aequalia sunt summae,
+quae ex 2 et 3 et 5 sexies multiplicatis fit, quoniam 6 >< 2 a- 12,
+6 >< 3 == 18, 6 >< 5 ε 30, quorum numerorum summa est 60.
+
+Heron dixit: Fieri non potest, ut haec propositio demon-
+stretur nisi duabus rectis simul delineatis; ceterae autem propo—
+sitiones una tantum recta delineata demonstrari possunt. Fieri
+etiam potest, ut una linea data duas rationes ingrediamur,
+quarum altera est analytica, altera synthetica.
+
+Analysis autem ratio haec est. Quaestione aliqua nobis
+proposita dicimus: quod quaeritur iam inuentum supponimus et
+deinde in rem iam antea demonstratam dissoluimus Re nobis
+demonstrata, quod quaeritur, per analysim inuentum esse di-
+cimu5.*)
+
+In synthesi a rebus notis incipientes ratione componendi
+utimur, donec inuentum sit, quod quaeritur. Hoc modo demon-
+stratio eius quod quaeritur uia synthetica perficitur.**)
+
+His rebus explicatiS, quae quaerimuS, secundum dicta pro—
+missaque nostra adgrediamur.
+
+Hoc dicit, se, quae hic promiserit, in reliquis Euclidis pro-
+positionibus huius libri secundi demonstraturum.
+
+*) Csr. Euclid. uol. IV p. 364, 18 sqq.
+**) Cfr. Euclid. uol. IV p. 366, 1 sqq.
+
+ 
+

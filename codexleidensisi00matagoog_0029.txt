@@ -1,0 +1,43 @@
+-23—
+
+lineis ΑΘ, ΘΒ comprehenso aequalis est summae spatiorum,
+quorum alterum lineis BA, ΑΘ, alterum lineis ΑΒ. ΒΘ compre-
+henditur. Sed iam demonstrauimuS, quadratum lineae AB his
+duobus spatiis ’ aequale esse. Ergo quadratum lineae AB re-
+solutum est in summam quadratorum linearum ΑΘ, ΘΒ et in
+spatium lineis ΑΘ, ΘΒ comprehensum bis sumptum, et haec duo
+
+inter se aequalia sunt. Q. n. e. d. ι
+
+ψ -2 Ι
+
+-B Θ Α
+Iam finita analysi ratione synthetica componere incipimus,
+Dicimus igitur, ex ΙΙ, 3 spatium duabus lineis ΒΘ, ΘΑ compre·
+’ hensum cum quadrato [lineae] ΑΘ aequale esse spatio dua·
+bus lineis BA, ΑΘ comprehenso. Eodem modo spatium dua-
+bus lineis ΑΘ, ΘΒ comprehensum cum quadrato [lineae] ΒΘ
+aequale est spatio duabus lineis AB, ΒΘ comprehenso (et
+quadrato lineae ΒΘ.)*) Itaque duo quadrata duarum linearum
+ΑΘ, ΘΒ cum duplo spatio duabus lineis ΑΘ, ΘΒ comprehenso
+aequalia sunt duobus spatiiS, quorum alterum duabus lineis BA,
+ΑΘ, alterum duabus lineis AB, ΒΘ comprehenditur. Uerum
+haec duo spatia coniuncta ex ΙΙ, 2 quadrato lineae AB aequa-
+lia sunt. Ergo summa duorum quadratorum duarum ‘linearum
+ΑΘ, ΘΒ cum duplo spatio duabus lineis ΑΘ, ΘΒ comprehenso
+
+aequalis est quadrato lineae ΑΒ. Q. n. e. d.**)
+
+propositio V Jlbri secundi.
+
+Si recta linea· in duas partes inter se aequales et rursus in
+duas inaequales diuiditur, spatium 1) duabus lineis inaequalibus
+comprehensum una cum quadrato lineae inter duo puncta dua-
+rum sectionum positae aequale est quadrato dimidiae lineae.
+
+ExemplificatiO. Linea recta AB in puncto Θ in duas
+
+⁸) Uerba et — ΒΘ errore nescio quo addita sunt.
+”) Porisma deest ut in P. m. 1 et in fragmento The Oxyrhynchus pa-
+pyri 1 p. 58.
+

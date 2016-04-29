@@ -1,0 +1,42 @@
+comprehensum [aequale est duplo spatio lineis BG, ΘΑ compre-
+henso] cum duplo quadrato lineae ΘΒ. Itaque duplum spatium
+duabus lineis AB, ΒΘ comprehensum cum quadrato lineae ΑΘ
+aequale est duplo spatio duabus lineis ΑΘ, [Θ]Β comprehenso
+cum duplo quadrato lineae ΘΒ et cum quadrato lineae ΑΘ.
+Sed ex ΙΙ, 4 summa duorum quadratorum duarum linearum ΑΘ,
+ΘΒ cum duplo spatio duabus lineis ΑΘ, ΘΒ comprehenso aequa-
+lis est quadrato lineae [ΑΒ] Restat igitur quadratum lineae ΘΒ,
+quo ad quadratum lineae AB addito efficitur summa duorum
+quadratorum duarum linearum [AB], BG [aequalis duplo spatio
+lineis AB, ΒΘ comprehenso] cum quadrato lineae AG ¹⁶¹²)
+
+Ita compositio a 11, 3 ad 11, 4 progreditur, sicut resolutio
+a prop. 4 ad 3. Q. n. e. d.
+
+ῳ 2³¹6 ς
+Β Α
+Propositio VIII libri secundi·
+
+Si recta linea data in duas quaslibet partes diuiditur et in
+ea producta linea alteri parti aequalis adiicitur, quadratum¹l
+in linea data simul cum linea adiecta constructum aequale est
+quadruplo spatio linea data et linea adiecta comprehenso cum
+quadrato partis alteriuS.
+
+Exemplificatio. Linea recta AB in Θ quolibet modo
+diuiditur, et in ea producta linea BD parti ΘΒ aequalis adiicitur.
+Dico, quadratum lineae AD aequale esse quadruplo spatio lineis
+AB, BD comprehenso cum quadrato lineae ΑΘ.
+
+ 
+
+¹·*) synthesim, quantum per apertos errores lacunasque codicis licuit,
+restituere conati sumuS.
+
+¹) ln margine est: aab &aaa &Lm ὁ ωδ &a ι.)..ρ...)Λ-;ν· ΦΒ
+,ass ,mi-J· effi» , φιν» &v ‘’ist'' ,μων 3 asts μὲν
+Laterculus totius lineae in se multiplicatae aequalis est Ιέΐὲἶέυἷί
+
+quadruplo lineae ab initio datae in partem adiectam multiplicatae et
+partis alterius in ae multiplicatae.
+
